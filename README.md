@@ -14,7 +14,7 @@ that support research workflows.
 - Research tool development
 
 🛠️ **Projects**:
-- [ORCA Input Generator]([(https://github.com/ThongyuCCRL/ORCA_input_generators-/blob/readme-edits/README.md)r)]
+- [ORCA Input Generator]
 - A script/tool to efficiently ORCA input files for various calculations.
 
 
