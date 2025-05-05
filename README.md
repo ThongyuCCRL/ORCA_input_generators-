@@ -3,10 +3,10 @@ My ORCA Input Generator is a Python-based tool designed to help comp-chem effici
 
 # Hi, I'm Ananda 👋
 
-Currently, I'm a student in the field of computational chemistry, with interested in developing tools programs
+Currently, I'm a student in the field of computational chemistry, with interest in developing tools and programs
 that support research workflows.
 
-🔬 **Current Focus**: input file generation for ORCA.
+🔬 **Current interest **: input file generation for ORCA.
 
 💡 **Interests**:
 - Computational chemistry (DFT, excited states, photochemistry)
